@@ -13,7 +13,7 @@ The PDF to Excel Converter (pdf2excel.py) is a Python script that simplifies the
 ## How to Use
 1. **Requirements:**
    - Ensure that you have Python installed on your system.
-   - Install required libraries using: `pip install pandas tabula-py`.
+   - Install required libraries using: `pip install -r requirements.txt`.
 
 2. **Executing the Script:**
    - Place the `pdf2excel.py` script in the same directory as the PDF files you want to convert.
